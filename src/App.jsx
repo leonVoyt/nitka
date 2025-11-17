@@ -7,11 +7,11 @@ const loveMessages = [
   "You make every day special ✨",
   "I love you more than words can say 💕",
   "You are my everything 🌟",
-  "Forever and always, my love 💝",
   "You light up my world 🌈",
   "I'm so lucky to have you 🍀",
-  "You are beautiful inside and out 💐",
-  "Love youuu Buuusikkk 🌸",
+  "You are the most beautiful girl i ever seen 💐",
+  "Love youuu so much Buuusikkk 🌸",
+  "Cпасибо за то что ты есть...❤️",
 ];
 
 const Heart = ({ delay, left, duration }) => {
