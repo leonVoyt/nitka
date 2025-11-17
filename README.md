@@ -14,11 +14,13 @@ A beautiful, animated React application to express your love with cute animation
 ## Setup
 
 1. Install dependencies:
+
 ```bash
 npm install
 ```
 
 2. Start the development server:
+
 ```bash
 npm run dev
 ```
@@ -32,6 +34,7 @@ You can customize the love messages by editing the `loveMessages` array in `src/
 ## Build for Production
 
 To create a production build:
+
 ```bash
 npm run build
 ```
@@ -48,4 +51,3 @@ The built files will be in the `dist` folder, ready to deploy or share!
 ---
 
 Made with 💕 for someone special
-
